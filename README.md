@@ -9,4 +9,8 @@ These are the following functions it has at the moment
 
 -    logout
 
+-    Sign up new users
+
+-    Read and edit blog posts
+
 Hosted on heroku @ https://first-zuri-blog.herokuapp.com/
